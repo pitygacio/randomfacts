@@ -16,7 +16,9 @@ const arrayOfFacts = [
     "About 150 people per year are killed by coconuts",
     "Honey never spoils",
     "Cherophobia is the fear of happiness",
-    "The bloodhound is the only animal whose evidence is admissible in court"
+    "The bloodhound is the only animal whose evidence is admissible in court",
+    "'E' is the most common letter and appears in 11 percent of all english words",
+    "Sea lions can dance to a beat"
 ];
 
 const facts = document.querySelector("#facts");
